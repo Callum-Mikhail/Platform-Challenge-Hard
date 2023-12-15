@@ -1,0 +1,8 @@
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+canvas {
+  border: 1px solid grey;
+}
